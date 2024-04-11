@@ -13,7 +13,7 @@ nome, idade = "Novo Nome", 29
 print(nome, idade)
 
 limite_saque_diario = 1000
-limite_saque_diario = 10
+limite_saque_diario = 100
 
 BRAZILIAN_STATES = ["SP", "RJ", "SC", "RS"]
 
